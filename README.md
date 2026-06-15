@@ -1,5 +1,13 @@
 # MobiAI: a safety layer for autonomous agents
 
+### Prevention over reaction.
+
+MobiAI halts your agent's mistakes before they happen and holds anything it can't take back for
+your sign-off. Local-first. Multi-layered. Zero-trust, paranoid by design. Automate the way it
+was always intended. Skip the headache. Tested and proven. Run it yourself — the tests are below.
+
+---
+
 Most of the work on AI agents goes into getting them to act. The harder problem is letting them
 act without something going badly wrong: the refund they shouldn't issue, the record they
 shouldn't delete, the data they shouldn't leak, the code they shouldn't break. MobiAI sits
